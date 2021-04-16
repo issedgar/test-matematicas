@@ -1,0 +1,27 @@
+{
+  "name": "test-matematicas",
+  "version": "1.0.0",
+  "description": "Test proyecto matemáticas nodejs y npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/issedgar/test-matematicas.git"
+  },
+  "keywords": [
+    "math",
+    "matematicas",
+    "suma",
+    "resta",
+    "división",
+    "multip"
+  ],
+  "author": "Edgar Carrillo <issedgar@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/issedgar/test-matematicas/issues"
+  },
+  "homepage": "https://github.com/issedgar/test-matematicas#readme"
+}
