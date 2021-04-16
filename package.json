@@ -1,6 +1,6 @@
 {
-  "name": "test-matematicas",
-  "version": "1.0.0",
+  "name": "ehc-test-matematicas",
+    "version": "1.0.0",
   "description": "Test proyecto matemáticas nodejs y npm",
   "main": "index.js",
   "scripts": {
